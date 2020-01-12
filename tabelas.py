@@ -6,7 +6,7 @@ Todas as tabelas do capítulo Personagens colocados em Tuplas e Dicionários
 """
 
 
-raca = ('Humano', 'Meio-Elfo', 'Elfo-Florestal', 'Elfo-Dourado', 'Anão', 'Pequenino')
+racas = ('Humano', 'Meio-Elfo', 'Elfo-Florestal', 'Elfo-Dourado', 'Anão', 'Pequenino')
 
 profissao = (('Guerreiro', True, True, True, True, True, True),
              ('Ladino', True, True, True, True, True, True),
