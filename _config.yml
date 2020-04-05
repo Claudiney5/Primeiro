@@ -1,3 +1,4 @@
 theme: jekyll-theme-leap-day
-title: Gerador de Personagens Tagmar Python (GPTpy)
+title: Gerador de Personagens Tagmar com Python (GPTpy)
 description: O GPTpy cria personagens semi aleatoriamente.
+text: Para gerar um personagem deve-se fazer apenas duas escolhas, raça e profissão. Todos os demais dados serão gerados pelo programa.
